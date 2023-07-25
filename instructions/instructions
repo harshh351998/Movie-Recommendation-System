@@ -1,0 +1,18 @@
+Step 1 
+In this exercise, you will use the provided classes Movie.java, Rating.java, and Rater.java and read in and store information about movies and ratings of movies by different movie raters to answer simple questions about both movies and ratings. 
+
+Step 2
+In this exercise, you will add to the programming project you did for the first assignment. You will continue to use the provided classes Movie.java, Rating.java, and Rater.java that were provided for the first assignment and you will also use the FirstRatings class you wrote to read in and store information about movies and ratings of movies by different movie raters. You will build on this assignment by calculating average ratings of movies. You will work with two new classes, SecondRatings which we will give you parts of, and a new class MovieRunnerAverage, which you will create. 
+
+Step 3
+In this exercise you will continue to build on the program you wrote for the previous assignment. You will also use new classes we provide for this assignment. In this exercise you will make your program more efficient and also use filters to be able to ask questions about movies with several traits. You should begin by creating a new Java project and copying your Java code and the data directory from the last assignment, since you will be making several changes. 
+
+Step 4
+n this exercise you will continue to build on the program you wrote for the previous assignment. You will continue to make your program more efficient with a RaterDatabase class that is designed and implemented similarly to the MovieDatabase class you used recently—you will use both of these database classes in this assignment. You will also calculate a different kind of average movie rating, one based on weighting ratings made by raters who are more like you, or like any given rater—valuing their ratings more than raters who don't have your tastes in movies. To calculate these weighted averages you will need to calculate similarity scores for each rater to find out which raters you are more similar to than others, so you can weight ratings accordingly. 
+
+Step 5
+For the last part of the capstone, you will integrate your recommender program with our course site. This will enable you to let a user run your program interactively on the internet. The user will be presented with a list of movies to rate, they will submit their ratings, and then a list of movies recommended for them by your program will be displayed. You will be able to choose which movies the user is presented to rate, and how to display the recommended movies.    
+You will have to write a class that will allow the course site to run your recommender program.
+
+
+
